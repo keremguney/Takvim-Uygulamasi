@@ -1,5 +1,4 @@
 # Takvim-Uygulamasi
-Yazilim Yapimi dersi final projesi
 
 Bagimliliklar: PyQt5, pysqlite3
 
