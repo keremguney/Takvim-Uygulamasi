@@ -8,6 +8,7 @@ $ pip install pyqt5
 
 $ pip install pysqlite3
 
+
 Projeyi calistirmak icin:
 
 $ python3 ./odev-v1_0.py
